@@ -1,0 +1,19 @@
+| Termine             | Significato semplice                                                  |
+| ------------------- | --------------------------------------------------------------------- |
+| **Linux**           | Sistema operativo/kernel alla base degli ambienti Linux               |
+| **Ubuntu**          | Una distribuzione Linux                                               |
+| **WSL 2**           | Tecnologia di Windows che permette di eseguire un vero ambiente Linux |
+| **Docker**          | Tecnologia per creare/eseguire container                              |
+| **Docker Desktop**  | Applicazione che porta Docker su Windows                              |
+| **Docker Engine**   | Il motore che gestisce container e immagini                           |
+| **Docker Client**   | Il comando `docker` con cui dai ordini al motore                      |
+| **Docker Hub**      | Registro online da cui scaricare immagini                             |
+| **Image**           | Modello/pacchetto da cui vengono creati container                     |
+| **Container**       | Istanza isolata creata da un'immagine                                 |
+| **Bash**            | Una shell, cioè un programma con cui interagisci con Linux            |
+| **`docker run`**    | Crea e avvia un nuovo container                                       |
+| **`docker start`**  | Riavvia un container già esistente                                    |
+| **`docker rm`**     | Elimina un container                                                  |
+| **`docker ps`**     | Mostra i container in esecuzione                                      |
+| **`docker ps -a`**  | Mostra anche quelli fermi                                             |
+| **`docker images`** | Mostra le immagini presenti                                           |
